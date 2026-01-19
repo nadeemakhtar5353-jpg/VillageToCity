@@ -1,6 +1,6 @@
 {
-    "name": "villageneedcity",
-    "short_name": "villageneedcity",
+    "name": "my_website",
+    "short_name": "my_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
